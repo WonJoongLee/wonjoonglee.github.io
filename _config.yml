@@ -9,7 +9,7 @@ lang: en
 timezone: Asia/Seoul
 
 # jekyll-seo-tag settings
-title: Wonjoong's Blog
+title: WonJoong's Blog
 tagline: Software Engineer
 description: >-
   A tech blog about software engineering, programming, and technology.
@@ -21,7 +21,7 @@ github:
   username: wonjoonglee
 
 social:
-  name: Wonjoong Lee
+  name: WonJoong Lee
   links:
     - https://github.com/wonjoonglee
 
