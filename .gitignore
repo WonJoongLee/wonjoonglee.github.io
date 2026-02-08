@@ -1,0 +1,30 @@
+# Claude Code
+.claude/
+CLAUDE.md
+
+# Bundler cache
+.bundle/
+vendor/
+Gemfile.lock
+
+# Jekyll generated
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby
+*.gem
+
+# Node (if using tools like htmlproofer)
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
