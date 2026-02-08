@@ -1,6 +1,8 @@
-# wonjoonglee.github.io
+# Welcome to WonJoong's Blog
 
-My personal tech blog built with [Jekyll](https://jekyllrb.com/) and the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme.
+A personal tech blog about software engineering, programming, and technology.
+
+Visit at [wonjoonglee.github.io](https://wonjoonglee.github.io)
 
 ## Local Development
 
@@ -10,7 +12,3 @@ bundle exec jekyll serve --livereload
 ```
 
 Then visit <http://127.0.0.1:4000>.
-
-## Deployment
-
-Pushes to `main` trigger the GitHub Actions workflow which builds and deploys to GitHub Pages.
